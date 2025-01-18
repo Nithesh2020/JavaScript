@@ -1,3 +1,11 @@
 JavaScript :-
  by : Nithesh
+
 Ref link : https://bgsw.udemy.com/course/the-complete-javascript-course/learn/lecture/22628657#overview
+
+github ref : https://github.com/jonasschmedtmann/complete-javascript-course
+
+tools ref : https://jonas.io/resources/
+
+
+
